@@ -1,4 +1,4 @@
 you can't always get what you want
 
 Gitk line1
-and two
+and two\n\nanother line\n\n
